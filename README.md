@@ -7,3 +7,9 @@ Ejecutar este comando
 ```
 npm install
 ```
+
+Comandos:
+```
+node app crear --base 3 --listar 5
+node app listar --base 2 --listar 15
+```
